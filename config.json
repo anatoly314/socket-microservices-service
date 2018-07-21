@@ -1,0 +1,13 @@
+{
+  "ORCHESTRATOR" : {
+    "URL": "http://127.0.0.1:8080"
+  },
+  "CLIENT" : {
+    "TYPE" : "SERVICE",
+    "NAME" : "SPACEPORT"
+  },
+  "LISTEN_TO_EVENTS" : {
+    "LAUNCH_SHIP" : "LAUNCH_SHIP",
+    "LAND_SHIP" : "LAND_SHIP"
+  }
+}
