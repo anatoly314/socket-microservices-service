@@ -11,7 +11,7 @@ let spaceport = {
                 }
 
                 return resolve(responseObject);
-            }, 1000);
+            }, 10);
         })
 
     }
